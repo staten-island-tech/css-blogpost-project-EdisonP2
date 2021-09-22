@@ -1,5 +1,16 @@
 body {
   background-color: yellowgreen;
+  color: black;
+  font-size: 25px;
+  font-family: "Gemunu Libre", sans-serif;
+}
+.main-header {
+  font-size: 100px;
+  margin-top: 50px;
   color: white;
-  font-size: 14px;
+  text-align: center;
+  background-color: black;
+}
+.subheader1 {
+  background-color: white;
 }
