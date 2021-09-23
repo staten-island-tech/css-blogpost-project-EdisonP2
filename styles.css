@@ -11,6 +11,9 @@ body {
   text-align: center;
   background-color: black;
 }
-h2{
+h2 {
   background-color: white;
+}
+p {
+  font-family: "Roboto", sans-serif;
 }
