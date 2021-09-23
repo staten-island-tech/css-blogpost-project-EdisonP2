@@ -16,4 +16,15 @@ h2 {
 }
 p {
   font-family: "Roboto", sans-serif;
+  background-color: aqua;
+}
+.subheader1 {
+  position: absolute;
+  top: 129px;
+  left: 50px;
+}
+.subheader2 {
+  position: absolute;
+  top: 129px;
+  left: 734px;
 }
