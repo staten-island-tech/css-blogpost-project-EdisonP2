@@ -29,20 +29,19 @@ p {
 .subheader2 {
   position: absolute;
   top: 507px;
-  left: 785px;
+  left: 836px;
 }
 .subheader3 {
   text-align: right;
   position: absolute;
   top: 507px;
-  right: 380px;
+  right: 105px;
 }
 .p1 {
   margin-top: 150px;
   margin-left: 50px;
   padding: 50;
   text-align: center;
-
   width: 150px;
 }
 .p2 {
@@ -52,51 +51,52 @@ p {
   text-align: center;
   width: 150px;
   position: absolute;
-  left: 665px;
+  left: 720px;
   top: 470px;
 }
 .p3 {
   margin-top: 150px;
   margin-left: 50px;
+  text-align: center;
   padding: 50;
   width: 150px;
   position: absolute;
-  right: 320px;
+  right: 50px;
   top: 470px;
 }
 .pic2 {
   position: absolute;
-  top: 750px;
-  left: 975px;
+  top: 1345px;
+  left: 720px;
   height: 350px;
   width: 350px;
 }
 .pic1 {
   position: absolute;
-  left: 350;
-  top: 750;
+  left: 50px;
+  top: 1345px;
   height: 350px;
   width: 350px;
 }
 .pic3 {
   position: absolute;
-  left: 1580;
-  top: 750;
-  height: 320px;
-  width: 320px;
+  right: 50px;
+  top: 1345px;
+  height: 350px;
+  width: 350px;
 }
 .link1 {
   position: absolute;
-  left: 470;
-  top: 1100;
+  left: 150px;
+  top: 1300px;
 }
 .link2 {
   position: absolute;
-  left: 1121;
-  top: 1100;
+  left: 856px;
+  top: 1300px;
 }
 .link3 {
   position: absolute;
-  left: 1681;
-  top: 1100;
+  left: 1654px;
+  top: 1300px;
 }
